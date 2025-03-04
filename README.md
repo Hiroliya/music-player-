@@ -1,1 +1,1 @@
-# music-player-
+🎶 Interactive Music Project Built with HTML, CSS & JavaScript 🎶 I’m excited to share my latest project where I combined creativity with coding! In this project, I used HTML, CSS, and JavaScript to create an interactive music player. The goal was to design a visually engaging and functional interface that allows users to play, pause, and control their music with smooth transitions and responsive design. 
